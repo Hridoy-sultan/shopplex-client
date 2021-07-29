@@ -1,0 +1,16 @@
+.menu {
+  list-style: none;
+}
+.menu li {
+  padding: 10px;
+  margin: 20px;
+  text-decoration: none;
+  list-style: none;
+}
+.header-continar {
+  display: flex;
+  justify-content: space-evenly;
+}
+.header-continar img {
+  width: 250px;
+}

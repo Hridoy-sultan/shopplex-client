@@ -1,0 +1,6 @@
+.itemContinar {
+  display: flex;
+  /* flex-shrink: 1; */
+  flex: 0 1 100px;
+  flex-basis: 100px;
+}
